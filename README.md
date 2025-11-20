@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="dashboard/Bike_Sales_Dashboard.png" width="900">
+  <img src="dashboard/Bike_Sales_Dashboard.PNG" width="900">
 </p>
 
 # 🚴‍♂️ Bike Sales Dashboard — Excel Project
@@ -45,7 +45,7 @@ Bike-Sales-Excel-Dashboard/
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/Bike_Sales_Dashboard.png" width="850">
+  <img src="dashboard/Bike_Sales_Dashboard.PNG" width="850">
 </p>
 
 The dashboard includes:
@@ -102,4 +102,5 @@ Kaggle — *Bike Buyers Dataset*
 
 **Your Name**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
