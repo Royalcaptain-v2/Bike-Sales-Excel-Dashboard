@@ -54,15 +54,15 @@ The dashboard includes:
 
 #  Key Insights
 
-✔ **Married customers** have higher bike purchase rates  
-✔ **Middle-aged customers** (31–54) dominate purchases  
-✔ **Higher income groups** buy significantly more bikes  
-✔ People with **shorter commute distances** purchase more often  
-✔ **North America & Europe** lead in total purchases  
+- **Married customers** have higher bike purchase rates  
+- **Middle-aged customers** (31–54) dominate purchases  
+- **Higher income groups** buy significantly more bikes  
+- People with **shorter commute distances** purchase more often  
+- **North America & Europe** lead in total purchases  
 
 ---
 
-# 🔧 Tools Used
+#  Tools Used
 
 - Microsoft Excel  
 - Pivot Tables  
@@ -97,6 +97,7 @@ Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
