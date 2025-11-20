@@ -40,7 +40,7 @@ Bike-Sales-Excel-Dashboard/
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/Bike_Sales_Dashboard.PNG" width="850">
+  <img src="dashboard/Bike_Sales_Dashboard.PNG" width="500">
 </p>
 
 The dashboard includes:
@@ -97,6 +97,7 @@ Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
