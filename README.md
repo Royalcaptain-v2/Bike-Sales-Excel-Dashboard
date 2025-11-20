@@ -13,10 +13,10 @@ Dataset Source → Kaggle (Bike Sales in Europe Dataset)
 |--------|------|
 |  Dashboard Preview | [link](#-dashboard-preview) |
 |  Project Structure | [link](#-project-structure) |
-|  Key Insights | [link](#-key-insights) |
-|  Tools Used | [link](#-tools-used) |
-|  How to Use | [link](#-how-to-use) |
-|  Dataset Source | [link](#-dataset-source) |
+|  Key Insights | [link](#key-insights) |
+|  Tools Used | [link](#tools-used) |
+|  How to Use | [link](#how-to-use) |
+|  Dataset Source | [link](#dataset-source) |
 
 ---
 
@@ -97,6 +97,7 @@ Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
