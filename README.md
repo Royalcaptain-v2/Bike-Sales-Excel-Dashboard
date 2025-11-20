@@ -52,7 +52,7 @@ The dashboard includes:
 
 ---
 
-#  Key Insights
+# Key Insights
 
 - **Married customers** have higher bike purchase rates  
 - **Middle-aged customers** (31–54) dominate purchases  
@@ -62,7 +62,7 @@ The dashboard includes:
 
 ---
 
-#  Tools Used
+# Tools Used
 
 - Microsoft Excel  
 - Pivot Tables  
@@ -73,7 +73,7 @@ The dashboard includes:
 
 ---
 
-#  How to Use
+# How to Use
 
 1. Download `BikeSalesProject.xlsx` from the `dashboard/` folder.
 2. Open it in Microsoft Excel.
@@ -87,16 +87,17 @@ The dashboard includes:
 
 ---
 
-#  Dataset Source
+# Dataset Source
 
 Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ---
 
-#  Author
+# Author
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
