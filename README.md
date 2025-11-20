@@ -11,12 +11,12 @@ Dataset Source → Kaggle (Bike Sales in Europe Dataset)
 
 | Section | Link |
 |--------|------|
-| 📊 Dashboard Preview | [link](#-dashboard-preview) |
-| 📁 Project Structure | [link](#-project-structure) |
-| 🧠 Key Insights | [link](#-key-insights) |
-| 🔧 Tools Used | [link](#-tools-used) |
-| ▶️ How to Use | [link](#-how-to-use) |
-| 📚 Dataset Source | [link](#-dataset-source) |
+|  Dashboard Preview | [link](#-dashboard-preview) |
+|  Project Structure | [link](#-project-structure) |
+|  Key Insights | [link](#-key-insights) |
+|  Tools Used | [link](#-tools-used) |
+|  How to Use | [link](#-how-to-use) |
+|  Dataset Source | [link](#-dataset-source) |
 
 ---
 
@@ -48,11 +48,11 @@ The dashboard includes:
 - **Average Income per Purchase (by Gender & Purchase status)**
 - **Count of Bikes Purchased (by Age Bracket)**
 - **Customer Commute Trends (Distance vs Purchase likelihood)**
-- **Slicers:** Gender, Marital Status, Region, Education
+- **Slicers:** Marital Status, Region, Education
 
 ---
 
-# 🧠 Key Insights
+#  Key Insights
 
 ✔ **Married customers** have higher bike purchase rates  
 ✔ **Middle-aged customers** (31–54) dominate purchases  
@@ -73,7 +73,7 @@ The dashboard includes:
 
 ---
 
-# ▶️ How to Use
+#  How to Use
 
 1. Download `BikeSalesProject.xlsx` from the `dashboard/` folder.
 2. Open it in Microsoft Excel.
@@ -87,16 +87,17 @@ The dashboard includes:
 
 ---
 
-# 📚 Dataset Source
+#  Dataset Source
 
 Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ---
 
-# ✨ Author
+#  Author
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
