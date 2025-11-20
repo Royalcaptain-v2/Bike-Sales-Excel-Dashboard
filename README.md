@@ -3,7 +3,7 @@
 This project analyzes bike purchasing behavior using demographic and lifestyle data.  
 The final output is an **interactive Excel dashboard** built using Pivot Tables, Pivot Charts, Normalized Tables, and Slicers.
 
-Dataset Source → Kaggle (Bike Buyers Dataset)
+Dataset Source → Kaggle (Bike Sales in Europe Dataset)
 
 ---
 
@@ -97,6 +97,7 @@ Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 **Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
 
