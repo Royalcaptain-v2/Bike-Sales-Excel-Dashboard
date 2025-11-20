@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="dashboard/Bike_Sales_Dashboard.PNG" width="900">
-</p>
-
 # 🚴‍♂️ Bike Sales Dashboard — Excel Project
 
 This project analyzes bike purchasing behavior using demographic and lifestyle data.  
@@ -16,12 +11,12 @@ Dataset Source → Kaggle (Bike Buyers Dataset)
 
 | Section | Link |
 |--------|------|
-| 📊 Dashboard Preview | [Jump](#-dashboard-preview) |
-| 📁 Project Structure | [Jump](#-project-structure) |
-| 🧠 Key Insights | [Jump](#-key-insights) |
-| 🔧 Tools Used | [Jump](#-tools-used) |
-| ▶️ How to Use | [Jump](#-how-to-use) |
-| 📚 Dataset Source | [Jump](#-dataset-source) |
+| 📊 Dashboard Preview | [link](#-dashboard-preview) |
+| 📁 Project Structure | [link](#-project-structure) |
+| 🧠 Key Insights | [link](#-key-insights) |
+| 🔧 Tools Used | [link](#-tools-used) |
+| ▶️ How to Use | [link](#-how-to-use) |
+| 📚 Dataset Source | [link](#-dataset-source) |
 
 ---
 
@@ -94,13 +89,14 @@ The dashboard includes:
 
 # 📚 Dataset Source
 
-Kaggle — *Bike Buyers Dataset*
+Kaggle — https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 ---
 
 # ✨ Author
 
-**Your Name**  
+**Bhavishya Pancholi**  
 Excel | Data Visualization | BI Dashboards | Analytics
+
 
 
